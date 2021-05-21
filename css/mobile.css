@@ -1,0 +1,20 @@
+.header {
+    height: 240px;
+}
+
+.producto {
+    width: 50%;
+}
+
+.promo {
+    top: 0%;
+}
+
+.menu-item {
+    align-self: center;
+    margin: auto;
+}
+
+iframe {
+    width: 100%;
+}
